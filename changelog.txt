@@ -1,0 +1,4 @@
+2020.04.12:
+* new: branch with the library repository changes at release 1.72.0 commit #789155d431930ebef4766550ed7bd09f62eac714 (2019.12.10) from https://github.com/boostorg/boost/commits/master
+* new: changelog
+* new: initial sources fork
